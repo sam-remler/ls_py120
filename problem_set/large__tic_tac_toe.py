@@ -101,6 +101,3 @@ class TTTGame:
 game = TTTGame()
 
 game.play()
-
-
-#### NEXT STEPS: FIX IS_WON / WINNER; FIX END OF GAME FOR INDEX ERROR; MAKE COMPUTER SMARTER
